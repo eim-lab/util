@@ -75,3 +75,10 @@ $ adb uninstall -k <package> # -k = keep data
 ~~~
 
 
+### run binaries 
+place in  '/data/local/tmp/' or '/data/data/packageName/files' 
+
+### 
+
+
+
