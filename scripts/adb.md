@@ -1,4 +1,6 @@
 
+### Home button
+adb shell am start -W -c android.intent.category.HOME -a android.intent.action.MAIN
 
 
 
